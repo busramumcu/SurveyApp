@@ -1,0 +1,6 @@
+D:\TermProject\ToolCreateQuery\ToolCreateQuery\bin\Debug\ToolCreateQuery.exe.config
+D:\TermProject\ToolCreateQuery\ToolCreateQuery\bin\Debug\ToolCreateQuery.exe
+D:\TermProject\ToolCreateQuery\ToolCreateQuery\bin\Debug\ToolCreateQuery.pdb
+D:\TermProject\ToolCreateQuery\ToolCreateQuery\obj\Debug\ToolCreateQuery.csproj.CoreCompileInputs.cache
+D:\TermProject\ToolCreateQuery\ToolCreateQuery\obj\Debug\ToolCreateQuery.exe
+D:\TermProject\ToolCreateQuery\ToolCreateQuery\obj\Debug\ToolCreateQuery.pdb
